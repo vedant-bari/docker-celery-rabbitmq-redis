@@ -1,0 +1,11 @@
+{
+    "github_repository_name": "piedpiper-web",
+    "app_name": "piedpiper",
+    "email": "richard.hendriks@piedpiper.com",
+    "description": "Its all about a Weissman score > 5.0",
+    "github_username": "The owner of the repository. Either your github username or organization name.",
+    "POSTGRES_USER": "postgres",
+    "POSTGRES_DB": "postgres",
+    "POSTGRES_PASSWORD": "postgres"
+
+}
